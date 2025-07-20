@@ -62,4 +62,4 @@ python main.py
 
 ## Credits
 
-Created as a fun summer camp project to demonstrate the power of computer vision and touchless interaction using Python.
+Created as a fun summer camp project for kids to demonstrate the power of computer vision and touchless interaction using Python.
